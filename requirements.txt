@@ -1,0 +1,5 @@
+# chatbot.py uses only the Python standard library (Python 3.10+),
+# so there are no runtime packages to install.
+#
+# Optional: only needed if you want to rebuild ChatbotApp.exe yourself.
+# pyinstaller>=6.0
